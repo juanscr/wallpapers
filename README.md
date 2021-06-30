@@ -7,3 +7,4 @@ it. The wallpapers are extracted from:
 
 - [Wallpapers Craft](wallpaperscraft.com)
 - [Pexels](https://www.pexels.com/search/4k%20wallpaper/)
+- [r/wallpaper](https://www.reddit.com/r/wallpaper)
